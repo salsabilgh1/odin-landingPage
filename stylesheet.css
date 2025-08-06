@@ -169,3 +169,12 @@ a{
     padding: 3px 15px;
     font-size: 12px;
 }
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    justify-self: end;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+}
