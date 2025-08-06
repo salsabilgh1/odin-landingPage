@@ -96,3 +96,32 @@ a{
     border: #3882F6;
     padding: 3px 12px;
 }
+.card{
+    width: 100px;
+    height: 100px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 6px;
+}
+.secondPart{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 250px;
+}
