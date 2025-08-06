@@ -125,3 +125,20 @@ a{
     align-items: center;
     max-width: 250px;
 }
+.quote{
+    background-color: #E5E7EB;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 22px;
+    color: #1F2937;
+   padding: 50px 150px;
+   
+   
+}
+.saider{
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+
+}
